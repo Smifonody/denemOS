@@ -51,7 +51,7 @@ brew install git
 #### Repoyu İndirme
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/denemOS.git
+git clone https://github.com/Smifonody/denemOS.git
 cd denemOS
 ```
 
@@ -61,7 +61,6 @@ Cross-compiler toolchain'i kurmak için:
 
 ```bash
 git clone https://github.com/rm-hull/barebones-toolchain.git
-cd barebones-toolchain
 ```
 
 > Detaylı kurulum adımları için: [https://github.com/rm-hull/barebones-toolchain](https://github.com/rm-hull/barebones-toolchain)
@@ -169,7 +168,7 @@ brew install git
 #### Cloning the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/denemOS.git
+git clone https://github.com/Smifonody/denemOS.git
 cd denemOS
 ```
 
@@ -179,7 +178,6 @@ To set up the cross-compiler toolchain:
 
 ```bash
 git clone https://github.com/rm-hull/barebones-toolchain.git
-cd barebones-toolchain
 ```
 
 > For detailed setup steps, see: [https://github.com/rm-hull/barebones-toolchain](https://github.com/rm-hull/barebones-toolchain)
@@ -260,7 +258,3 @@ denemOS/
 This project was built with significant help from [Claude.ai](https://claude.ai). The goal was never to write every line independently, but to **learn by doing** — understanding boot processes, memory, shell design, and file systems through guided exploration. The next project, **nodyOS**, will be written independently.
 
 ---
-
-## 📜 License
-
-This project is open source. See [LICENSE](LICENSE) for details.
