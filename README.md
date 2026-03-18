@@ -184,7 +184,3 @@ denemOS/
 This project was built with significant help from [Claude.ai](https://claude.ai). The goal was never to write every line independently, but to **learn by doing** — understanding boot processes, memory, shell design, and file systems through guided exploration. The next project, **nodyOS**, will be written independently.
 
 ---
-
-## 📜 License
-
-This project is open source. See [LICENSE](LICENSE) for details.
